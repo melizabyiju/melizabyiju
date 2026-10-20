@@ -1,14 +1,20 @@
 <div align="center">
 
-  <!-- Retro Macintosh Hero Banner -->
-  <img src="./assets/header.png" alt="Meliza Mariya Byiju - Retro Macintosh Developer" width="100%" />
+```text
+┌────────────────────────────────────────────────────────┐
+│  MELIZA MARIYA BYIJU                       [■] [−] [×] │
+└────────────────────────────────────────────────────────┘
+```
 
-  <br />
+# `MELIZA MARIYA BYIJU`
+#### `> AI & Data Science • Software Engineering • GDG AJCE`
 
-  <!-- Glowing Phosphor Emerald Typing Terminal -->
-  <a href="https://github.com/melizabyiju">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1200&color=00FF66&center=true&vCenter=true&width=620&height=50&lines=%3E%20Meliza%20Mariya%20Byiju;%3E%20try.%20fail.%20learn.%20repeat.;%3E%20engineering%20tech%20for%20real%20social%20impact;%3E%20exploring%20future%20technologies%20%26%20AI;%3E%20curious%20mind%20%E2%80%A2%20constantly%20learning;%3E%20connecting%20people%2C%20stories%20%26%20bold%20ideas" alt="Meliza's Live Terminal" />
-  </a>
+<br />
+
+<!-- Glowing Phosphor Emerald Typing Terminal (VT323 90s Monospace Pixel Font) -->
+<a href="https://github.com/melizabyiju">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1200&color=00FF66&center=true&vCenter=true&width=620&height=50&lines=%3E%20Meliza%20Mariya%20Byiju;%3E%20try.%20fail.%20learn.%20repeat.;%3E%20engineering%20tech%20for%20real%20social%20impact;%3E%20exploring%20future%20technologies%20%26%20AI;%3E%20curious%20mind%20%E2%80%A2%20constantly%20learning;%3E%20connecting%20people%2C%20stories%20%26%20bold%20ideas" alt="Meliza's Live Terminal" />
+</a>
 
 </div>
 
@@ -16,7 +22,11 @@
 
 ---
 
-### `ABOUT.TXT`
+```text
+╔════════════════════════════════════════════════════════╗
+║  ABOUT.TXT                                             ║
+╚════════════════════════════════════════════════════════╝
+```
 
 ```text
 > whoami
@@ -45,7 +55,11 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-### `INSTALLED_TOOLS.SYS`
+```text
+╔════════════════════════════════════════════════════════╗
+║  INSTALLED_TOOLS.SYS                                   ║
+╚════════════════════════════════════════════════════════╝
+```
 
 #### `// AI, Computer Vision & Research (NIT Calicut + Projects)`
 <p align="left">
@@ -79,7 +93,11 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-### `PROJECT_DIRECTORY/`
+```text
+╔════════════════════════════════════════════════════════╗
+║  PROJECT_DIRECTORY/                                    ║
+╚════════════════════════════════════════════════════════╝
+```
 
 ```text
 > ls -la /projects/featured
@@ -119,7 +137,11 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-### `ACTIVITY_STREAM.LOG`
+```text
+╔════════════════════════════════════════════════════════╗
+║  ACTIVITY_STREAM.LOG                                   ║
+╚════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/melizabyiju/melizabyiju/output/github-contribution-grid-snake-dark.svg" alt="Meliza's Contribution Snake" width="100%" />
@@ -129,7 +151,11 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-### `COMMUNICATIONS_PORT/`
+```text
+╔════════════════════════════════════════════════════════╗
+║  COMMUNICATIONS_PORT/                                  ║
+╚════════════════════════════════════════════════════════╝
+```
 
 ```text
 > connect --available-channels
@@ -143,10 +169,4 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melizabyiju@gmail.com)
 
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Designed with retro Macintosh computing aesthetics • Powered by GitHub Actions & Markdown</sub>
 </div>
