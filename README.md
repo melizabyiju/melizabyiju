@@ -1,7 +1,7 @@
 <div align="center">
 
 # <h1 style="font-size: 3rem;"><samp><b>MELIZA MARIYA BYIJU</b></samp></h1>
-### `> AI & Data Science • Software Engineering • GDG AJCE`
+### ` AI & Data Science • Software Engineering • GDG AJCE`
 
 <br />
 
