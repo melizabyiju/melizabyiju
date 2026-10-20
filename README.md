@@ -1,11 +1,5 @@
 <div align="center">
 
-```text
-┌────────────────────────────────────────────────────────┐
-│  MELIZA MARIYA BYIJU                       [■] [−] [×] │
-└────────────────────────────────────────────────────────┘
-```
-
 # `MELIZA MARIYA BYIJU`
 #### `> AI & Data Science • Software Engineering • GDG AJCE`
 
@@ -22,11 +16,7 @@
 
 ---
 
-```text
-╔════════════════════════════════════════════════════════╗
-║  ABOUT.TXT                                             ║
-╚════════════════════════════════════════════════════════╝
-```
+### `ABOUT.TXT`
 
 ```text
 > whoami
@@ -55,11 +45,7 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-```text
-╔════════════════════════════════════════════════════════╗
-║  INSTALLED_TOOLS.SYS                                   ║
-╚════════════════════════════════════════════════════════╝
-```
+### `INSTALLED_TOOLS.SYS`
 
 #### `// AI, Computer Vision & Research (NIT Calicut + Projects)`
 <p align="left">
@@ -93,11 +79,7 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-```text
-╔════════════════════════════════════════════════════════╗
-║  PROJECT_DIRECTORY/                                    ║
-╚════════════════════════════════════════════════════════╝
-```
+### `PROJECT_DIRECTORY/`
 
 ```text
 > ls -la /projects/featured
@@ -137,11 +119,7 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-```text
-╔════════════════════════════════════════════════════════╗
-║  ACTIVITY_STREAM.LOG                                   ║
-╚════════════════════════════════════════════════════════╝
-```
+### `ACTIVITY_STREAM.LOG`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/melizabyiju/melizabyiju/output/github-contribution-grid-snake-dark.svg" alt="Meliza's Contribution Snake" width="100%" />
@@ -151,11 +129,7 @@ I’m someone who embraces the cycle to **try, fail, learn, and repeat**—becau
 
 ---
 
-```text
-╔════════════════════════════════════════════════════════╗
-║  COMMUNICATIONS_PORT/                                  ║
-╚════════════════════════════════════════════════════════╝
-```
+### `COMMUNICATIONS_PORT/`
 
 ```text
 > connect --available-channels
