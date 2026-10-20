@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280">
+
+  <!-- ═══════════════════════════════════════════════════════════════════
+       MELIZA MARIYA BYIJU — GitHub Profile Hero Banner
+       Style: Classic Macintosh / Retro 1-bit Computing
+       Palette: #0D1117 bg · #F0F6FC white · #C6C6C6 mid-gray
+                #8B949E dim-gray · #00FF66 phosphor-emerald (accent)
+       Dimensions: 860 × 280  ViewBox: 0 0 860 280
+  ════════════════════════════════════════════════════════════════════ -->
+
+  <!-- ── Background ── -->
+  <rect width="860" height="280" fill="#0D1117"/>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       DITHERED PIXEL BORDER — 4px checkerboard band all four edges
+       Uses 2×2 pixel alternating squares to mimic Mac OS dithering
+  ══════════════════════════════════════════════════════════════════ -->
+  <defs>
+    <!-- 4×4 tile: 2×2 white TL, 2×2 black TR, 2×2 black BL, 2×2 white BR -->
+    <pattern id="dither" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="2" height="2" fill="#F0F6FC"/>
+      <rect x="2" y="0" width="2" height="2" fill="#0D1117"/>
+      <rect x="0" y="2" width="2" height="2" fill="#0D1117"/>
+      <rect x="2" y="2" width="2" height="2" fill="#F0F6FC"/>
+    </pattern>
+  </defs>
+
+  <!-- Top border band -->
+  <rect x="0" y="0"   width="860" height="4" fill="url(#dither)"/>
+  <!-- Bottom border band -->
+  <rect x="0" y="276" width="860" height="4" fill="url(#dither)"/>
+  <!-- Left border band -->
+  <rect x="0" y="4"   width="4"   height="272" fill="url(#dither)"/>
+  <!-- Right border band -->
+  <rect x="856" y="4" width="4"   height="272" fill="url(#dither)"/>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       CORNER PIXEL CLUSTER ORNAMENTS — 5×5 pixel art at each corner
+       Classic Mac UI corner widget feel
+  ══════════════════════════════════════════════════════════════════ -->
+
+  <!-- Top-Left corner cluster (offset from dither border: x=6, y=6) -->
+  <g fill="#F0F6FC">
+    <rect x="6"  y="6"  width="2" height="2"/>
+    <rect x="10" y="6"  width="2" height="2"/>
+    <rect x="14" y="6"  width="2" height="2"/>
+    <rect x="6"  y="10" width="2" height="2"/>
+    <rect x="14" y="10" width="2" height="2"/>
+    <rect x="6"  y="14" width="2" height="2"/>
+    <rect x="10" y="14" width="2" height="2"/>
+    <rect x="14" y="14" width="2" height="2"/>
+  </g>
+
+  <!-- Top-Right corner cluster -->
+  <g fill="#F0F6FC">
+    <rect x="840" y="6"  width="2" height="2"/>
+    <rect x="844" y="6"  width="2" height="2"/>
+    <rect x="848" y="6"  width="2" height="2"/>
+    <rect x="840" y="10" width="2" height="2"/>
+    <rect x="848" y="10" width="2" height="2"/>
+    <rect x="840" y="14" width="2" height="2"/>
+    <rect x="844" y="14" width="2" height="2"/>
+    <rect x="848" y="14" width="2" height="2"/>
+  </g>
+
+  <!-- Bottom-Left corner cluster -->
+  <g fill="#F0F6FC">
+    <rect x="6"  y="260" width="2" height="2"/>
+    <rect x="10" y="260" width="2" height="2"/>
+    <rect x="14" y="260" width="2" height="2"/>
+    <rect x="6"  y="264" width="2" height="2"/>
+    <rect x="14" y="264" width="2" height="2"/>
+    <rect x="6"  y="268" width="2" height="2"/>
+    <rect x="10" y="268" width="2" height="2"/>
+    <rect x="14" y="268" width="2" height="2"/>
+  </g>
+
+  <!-- Bottom-Right corner cluster -->
+  <g fill="#F0F6FC">
+    <rect x="840" y="260" width="2" height="2"/>
+    <rect x="844" y="260" width="2" height="2"/>
+    <rect x="848" y="260" width="2" height="2"/>
+    <rect x="840" y="264" width="2" height="2"/>
+    <rect x="848" y="264" width="2" height="2"/>
+    <rect x="840" y="268" width="2" height="2"/>
+    <rect x="844" y="268" width="2" height="2"/>
+    <rect x="848" y="268" width="2" height="2"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       LEFT SIDE RETRO DESKTOP ICONS (stacked vertically, x~48-76)
+       Three 28×28 pixel-art icons using only rect/line/text
+  ══════════════════════════════════════════════════════════════════ -->
+
+  <!-- ── Icon 1: Floppy Disk (top y=66) ── -->
+  <g>
+    <!-- Outer casing (white) -->
+    <rect x="47" y="66" width="28" height="28" fill="#F0F6FC" rx="1"/>
+    <!-- Inner dark body -->
+    <rect x="49" y="68" width="24" height="24" fill="#0D1117"/>
+    <!-- Label area (light gray) -->
+    <rect x="50" y="69" width="22" height="10" fill="#C6C6C6"/>
+    <!-- Shutter / metal slider -->
+    <rect x="55" y="87" width="12" height="4" fill="#8B949E"/>
+    <rect x="57" y="88" width="8"  height="2" fill="#0D1117"/>
+    <!-- Write-protect tab -->
+    <rect x="50" y="69" width="4"  height="3" fill="#8B949E"/>
+    <!-- Label detail lines -->
+    <rect x="52" y="71" width="14" height="1" fill="#8B949E"/>
+    <rect x="52" y="73" width="10" height="1" fill="#8B949E"/>
+  </g>
+
+  <!-- ── Icon 2: Folder (top y=110) ── -->
+  <g>
+    <!-- Folder tab (top-left) -->
+    <rect x="47" y="110" width="12" height="4" fill="#F0F6FC" rx="1"/>
+    <!-- Folder body outline -->
+    <rect x="47" y="114" width="28" height="20" fill="#0D1117" stroke="#F0F6FC" stroke-width="1.5"/>
+    <!-- Interior tint -->
+    <rect x="48.5" y="115.5" width="25" height="17" fill="#1C2128"/>
+    <!-- Doc lines -->
+    <rect x="52" y="120" width="16" height="1.5" fill="#8B949E"/>
+    <rect x="52" y="124" width="12" height="1.5" fill="#8B949E"/>
+    <rect x="52" y="128" width="14" height="1.5" fill="#8B949E"/>
+  </g>
+
+  <!-- ── Icon 3: Terminal Frame (top y=154) ── -->
+  <g>
+    <!-- Outer frame -->
+    <rect x="47" y="154" width="28" height="22" fill="#0D1117" stroke="#F0F6FC" stroke-width="1.5" rx="1"/>
+    <!-- Title bar -->
+    <rect x="47" y="154" width="28" height="6" fill="#F0F6FC"/>
+    <!-- Close/minimize dots -->
+    <rect x="49" y="155.5" width="2" height="2" fill="#0D1117"/>
+    <rect x="52.5" y="155.5" width="2" height="2" fill="#0D1117"/>
+    <rect x="56" y="155.5" width="2" height="2" fill="#0D1117"/>
+    <!-- Prompt text -->
+    <text x="51" y="172" font-family="'Courier New', Courier, monospace" font-size="8" font-weight="bold" fill="#00FF66">&gt;_</text>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       SUBTLE HORIZONTAL DIVIDER LINES
+  ══════════════════════════════════════════════════════════════════ -->
+  <line x1="20" y1="68"  x2="840" y2="68"  stroke="#2D333B" stroke-width="1"/>
+  <line x1="20" y1="224" x2="840" y2="224" stroke="#2D333B" stroke-width="1"/>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       CENTER TYPOGRAPHY
+  ══════════════════════════════════════════════════════════════════ -->
+
+  <!-- Status chip pill: [ SYSTEM 7.5 // S5 CSE ] -->
+  <rect x="310" y="78" width="240" height="18" rx="9" fill="#161B22" stroke="#2D333B" stroke-width="1"/>
+  <text
+    x="430" y="91"
+    font-family="'Courier New', Courier, monospace"
+    font-size="11"
+    fill="#8B949E"
+    text-anchor="middle"
+    letter-spacing="1"
+  >[ SYSTEM 7.5 // S5 CSE ]</text>
+
+  <!-- Main headline -->
+  <text
+    x="430" y="150"
+    font-family="'Courier New', Courier, monospace"
+    font-size="42"
+    font-weight="700"
+    fill="#F0F6FC"
+    text-anchor="middle"
+    letter-spacing="3"
+  >MELIZA MARIYA BYIJU</text>
+
+  <!-- Tagline -->
+  <text
+    x="430" y="180"
+    font-family="'Courier New', Courier, monospace"
+    font-size="13"
+    fill="#C6C6C6"
+    text-anchor="middle"
+    letter-spacing="1"
+  >AI &amp; Data Science  •  Software Engineering  •  GDG AJCE</text>
+
+  <!-- Phosphor green terminal micro-label -->
+  <text
+    x="430" y="210"
+    font-family="'Courier New', Courier, monospace"
+    font-size="11"
+    fill="#00FF66"
+    text-anchor="middle"
+    letter-spacing="0.5"
+  >&gt; melizabyiju@github ~ $</text>
+
+  <!-- ══════════════════════════════════════════════════════════════
+       RIGHT SIDE: Retro Macintosh Monitor Pixel Art (x~792-840)
+       Built entirely from rect elements — no external images
+  ══════════════════════════════════════════════════════════════════ -->
+  <g>
+    <!-- Monitor outer casing -->
+    <rect x="792" y="106" width="48" height="38" rx="3" fill="#C6C6C6"/>
+    <!-- Screen bezel -->
+    <rect x="796" y="110" width="40" height="28" fill="#1C2128" rx="1"/>
+    <!-- Phosphor green scanlines on screen -->
+    <rect x="798" y="113" width="36" height="1" fill="#00FF66" opacity="0.6"/>
+    <rect x="798" y="118" width="30" height="1" fill="#00FF66" opacity="0.4"/>
+    <rect x="798" y="123" width="32" height="1" fill="#00FF66" opacity="0.4"/>
+    <rect x="798" y="128" width="20" height="1" fill="#00FF66" opacity="0.3"/>
+    <!-- Blinking cursor block -->
+    <rect x="798" y="132" width="4" height="4" fill="#00FF66" opacity="0.9"/>
+    <!-- Neck connector -->
+    <rect x="808" y="144" width="16" height="4" fill="#8B949E"/>
+    <!-- Base stand -->
+    <rect x="802" y="148" width="28" height="5" fill="#8B949E" rx="1"/>
+    <!-- Base foot (wider) -->
+    <rect x="798" y="153" width="36" height="4" fill="#8B949E" rx="1"/>
+    <!-- Disk slot line -->
+    <rect x="828" y="126" width="6" height="2" fill="#8B949E"/>
+    <!-- Power LED -->
+    <rect x="796" y="143" width="3" height="3" fill="#00FF66" opacity="0.8" rx="1"/>
+  </g>
+
+</svg>
