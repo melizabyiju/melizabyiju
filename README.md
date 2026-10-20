@@ -1,6 +1,6 @@
 <div align="center">
 
-# <samp><font size="7">MELIZA MARIYA BYIJU</font></samp>
+# <h1 style="font-size: 3rem;"><samp><b>MELIZA MARIYA BYIJU</b></samp></h1>
 ### `> AI & Data Science • Software Engineering • GDG AJCE`
 
 <br />
