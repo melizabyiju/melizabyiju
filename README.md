@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=250&section=header&text=MELIZA%20MARIYA%20BYIJU&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Software%20Engineering%20%7C%20GDG%20AJCE&descAlignY=62&descSize=17&fontAlign=50" width="100%" alt="Meliza Mariya Byiju" />
+  <!-- Cinematic Emerald Wave Banner -->
+  <img src="./assets/banner.svg" width="100%" alt="Meliza Mariya Byiju" />
 
   <br />
 
@@ -22,9 +23,9 @@
 Meliza Mariya Byiju [B.Tech CSE '28 • Amal Jyothi College of Engineering]
 ```
 
-Hi, I'm **Meliza Mariya Byiju**. I'm a Computer Science student driven by behind-the-scenes engineering, AI research, and impactful technology that solves real-world ecological and human challenges. 
+Hi, I’m **Meliza Mariya Byiju**. I’m a Computer Science student driven by behind-the-scenes engineering, AI research, and impactful technology that solves real-world ecological and human challenges. 
 
-I'm someone who embraces the cycle to **try, fail, learn, and repeat**—because the best software is built through continuous experimentation, curiosity, and rapid iteration.
+I’m someone who embraces the cycle to **try, fail, learn, and repeat**—because the best software is built through continuous experimentation, curiosity, and rapid iteration.
 
 ```text
 > system.leadership --active

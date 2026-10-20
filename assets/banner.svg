@@ -1,0 +1,118 @@
+<svg width="854" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C10" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#0E1620" />
+    </linearGradient>
+
+    <!-- First Wave Gradient (Dark Slate to Emerald Mist) -->
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F2937" stop-opacity="0.75" />
+      <stop offset="40%" stop-color="#0F382A" stop-opacity="0.65" />
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.85" />
+    </linearGradient>
+
+    <!-- Front Wave Gradient (Glowing Emerald & Deep Teal Accent) -->
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A2E23" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#00FF66" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#153A30" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Subtle Wave Crest Glow -->
+    <linearGradient id="crestGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF66" stop-opacity="0.0" />
+      <stop offset="50%" stop-color="#00FF66" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#00FF66" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .name-title {
+      font-size: 46px;
+      font-weight: 800;
+      letter-spacing: 3px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      fill: #FFFFFF;
+    }
+    .sub-title {
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', 'Courier New', monospace;
+      fill: #00FF66;
+    }
+    .fade-in {
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <!-- Base Card Background with subtle rounded corners and retro border -->
+  <rect width="854" height="220" rx="10" fill="url(#bgGradient)" stroke="#30363D" stroke-width="1" />
+
+  <!-- Animated Back Wave -->
+  <path d="M0 0 L0 145 Q 213.5 190 427 160 T 854 175 L 854 0 Z" fill="url(#waveGrad1)">
+    <animate
+      attributeName="d"
+      dur="16s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.25 0 0.25 1; 0.25 0 0.25 1; 0.25 0 0.25 1"
+      values="
+        M0 0 L0 145 Q 213.5 190 427 160 T 854 175 L 854 0 Z;
+        M0 0 L0 165 Q 213.5 140 427 180 T 854 150 L 854 0 Z;
+        M0 0 L0 150 Q 213.5 175 427 145 T 854 180 L 854 0 Z;
+        M0 0 L0 145 Q 213.5 190 427 160 T 854 175 L 854 0 Z"
+    />
+  </path>
+
+  <!-- Animated Front Wave with Emerald Accent -->
+  <path d="M0 0 L0 155 Q 213.5 135 427 165 T 854 145 L 854 0 Z" fill="url(#waveGrad2)">
+    <animate
+      attributeName="d"
+      dur="14s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.25 0 0.25 1; 0.25 0 0.25 1; 0.25 0 0.25 1"
+      values="
+        M0 0 L0 155 Q 213.5 135 427 165 T 854 145 L 854 0 Z;
+        M0 0 L0 140 Q 213.5 180 427 145 T 854 170 L 854 0 Z;
+        M0 0 L0 165 Q 213.5 150 427 175 T 854 140 L 854 0 Z;
+        M0 0 L0 155 Q 213.5 135 427 165 T 854 145 L 854 0 Z"
+    />
+  </path>
+
+  <!-- Wave Accent Rim Line -->
+  <path d="M0 155 Q 213.5 135 427 165 T 854 145" fill="none" stroke="url(#crestGlow)" stroke-width="2">
+    <animate
+      attributeName="d"
+      dur="14s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.25 0 0.25 1; 0.25 0 0.25 1; 0.25 0 0.25 1"
+      values="
+        M0 155 Q 213.5 135 427 165 T 854 145;
+        M0 140 Q 213.5 180 427 145 T 854 170;
+        M0 165 Q 213.5 150 427 175 T 854 140;
+        M0 155 Q 213.5 135 427 165 T 854 145"
+    />
+  </path>
+
+  <!-- Text Header -->
+  <g class="fade-in">
+    <!-- Main Headline -->
+    <text x="50%" y="90" text-anchor="middle" class="name-title">MELIZA MARIYA BYIJU</text>
+
+    <!-- Subtitle with Glowing Emerald Accent -->
+    <text x="50%" y="128" text-anchor="middle" class="sub-title">AI &amp; DATA SCIENCE  •  SOFTWARE ENGINEERING  •  GDG AJCE</text>
+  </g>
+</svg>
