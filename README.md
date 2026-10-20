@@ -1,11 +1,14 @@
-﻿<div align="center">
-  <img src="./assets/hero.svg" alt="Meliza Mariya Byiju - Hero Banner" width="100%" />
-  
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=250&section=header&text=MELIZA%20MARIYA%20BYIJU&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Software%20Engineering%20%7C%20GDG%20AJCE&descAlignY=62&descSize=17&fontAlign=50" width="100%" alt="Meliza Mariya Byiju" />
+
   <br />
 
+  <!-- Glowing Phosphor Emerald Typing Terminal (VT323 90s Monospace Pixel Font) -->
   <a href="https://github.com/melizabyiju">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1200&color=00FF66&center=true&vCenter=true&width=650&height=60&lines=%3E%20try.%20fail.%20learn.%20repeat.;%3E%20engineering%20tech%20for%20real%20social%20impact;%3E%20exploring%20future%20technologies%20%26%20AI;%3E%20curious%20mind%20%E2%80%A2%20constantly%20learning;%3E%20connecting%20people%2C%20stories%20%26%20bold%20ideas" alt="Meliza Live Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1200&color=00FF66&center=true&vCenter=true&width=650&height=60&lines=%3E%20try.%20fail.%20learn.%20repeat.;%3E%20engineering%20tech%20for%20real%20social%20impact;%3E%20exploring%20future%20technologies%20%26%20AI;%3E%20curious%20mind%20%E2%80%A2%20constantly%20learning;%3E%20connecting%20people%2C%20stories%20%26%20bold%20ideas" alt="Meliza's Live Terminal" />
   </a>
+
 </div>
 
 <br />
@@ -19,9 +22,9 @@
 Meliza Mariya Byiju [B.Tech CSE '28 • Amal Jyothi College of Engineering]
 ```
 
-Hi, I’m **Meliza Mariya Byiju**. I’m a Computer Science student driven by behind-the-scenes engineering, AI research, and impactful technology that solves real-world ecological and human challenges. 
+Hi, I'm **Meliza Mariya Byiju**. I'm a Computer Science student driven by behind-the-scenes engineering, AI research, and impactful technology that solves real-world ecological and human challenges. 
 
-I’m someone who embraces the cycle to **try, fail, learn, and repeat**—because the best software is built through continuous experimentation, curiosity, and rapid iteration.
+I'm someone who embraces the cycle to **try, fail, learn, and repeat**—because the best software is built through continuous experimentation, curiosity, and rapid iteration.
 
 ```text
 > system.leadership --active
